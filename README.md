@@ -148,4 +148,4 @@ MIT
 
 ---
 
-<p align="center">Built with ❤️ — <a href="https://github.com/Adna9Shafi/chatwave">github.com/Adna9Shafi/chatwave</a></p>
+<p align="center">Built with ❤️ By Adnan Shafi — <a href="https://github.com/Adna9Shafi/chatwave">github.com/Adna9Shafi/chatwave</a></p>
